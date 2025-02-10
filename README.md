@@ -46,7 +46,7 @@ Olá! Me chamo **Rodrigo**, sou um desenvolvedor Fullstack apaixonado por tecnol
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RodrigoDev_oficial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rodrigodev/)
 
-📧 **Contato:** rodfgmoreira@gmail.com
+📧 **Contato:** contato.rodfgmoreira@gmail.com
 
 ---
 
