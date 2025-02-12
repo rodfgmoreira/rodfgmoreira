@@ -35,9 +35,6 @@ Olá! Me chamo **Rodrigo**, sou um desenvolvedor Fullstack apaixonado por tecnol
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfgmoreira&layout=compact&theme=radical" />
 </div>
 
-📌 **Contribuições & Atividade:**
-![GitHub Streak](https://streak-stats.demolab.com/?user=rodfgmoreira&theme=radical)
-
 ---
 
 ## 🌎 Onde me encontrar?
