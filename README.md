@@ -1,7 +1,7 @@
 # Olá, Devs! 👋 Bem-vindo ao meu perfil do GitHub
 
 ## 👨‍💻 Sobre Mim
-Olá! Me chamo **Rodrigo**, sou um desenvolvedor Frontend apaixonado por tecnologia e soluções inovadoras. Atualmente, curso **Engenharia de Software**, Freelancer no Fiverr e crio conteúdo sobre programação no YouTube no canal **Rodrigodev**. 🚀
+Olá! Me chamo **Rodrigo**, sou um desenvolvedor Frontend apaixonado por tecnologia e soluções inovadoras. Atualmente, curso **Engenharia de Software**, Desenvolvedor front-end na Devex e crio conteúdo sobre programação no YouTube no canal **Rodrigodev**. 🚀
 
 📍 **Localização:** Brasil 🇧🇷  
 🎯 **Objetivo:** Tornar-me um desenvolvedor Fullstack de alto nível e construir projetos impactantes.
