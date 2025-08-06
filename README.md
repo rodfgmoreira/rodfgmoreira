@@ -31,8 +31,8 @@ Olá! Me chamo **Rodrigo**, sou um desenvolvedor Frontend apaixonado por tecnolo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodfgmoreira&show_icons=true&theme=radical&count_private=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfgmoreira&layout=compact&theme=radical&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodfgmoreira&show_icons=true&theme=radical&count_private=true&cache_seconds=3200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfgmoreira&layout=compact&theme=radical&cache_seconds=3200"/>
 </div>
 
 ---
