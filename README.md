@@ -25,7 +25,7 @@ Olá! Me chamo **Rodrigo**, sou um desenvolvedor Fullstack apaixonado por tecnol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-🔧 **Ferramentas:** Git | VSCode | Figma | Docker
+🔧 **Ferramentas:** Git | VSCode | Figma | Docker 
 
 ---
 
